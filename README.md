@@ -1,4 +1,4 @@
-aceshooting.github.io
-=====================
+Starspanorama
+=============
 
-Panorama views of the stars
+Panorama views of the stars in Luxembourg
